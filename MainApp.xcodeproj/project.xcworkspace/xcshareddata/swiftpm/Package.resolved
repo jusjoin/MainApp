@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "3dc6a42c7727c49bf26508e29b0a0b35f9c7e1ad",
+          "version": "5.8.1"
+        }
+      },
+      {
+        "package": "FindMyIP",
+        "repositoryURL": "https://github.com/jusjoin/FindMyIP.git",
+        "state": {
+          "branch": "main",
+          "revision": "1c742587e3f7cc749a8ee86a722a6be62cda170d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
